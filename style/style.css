@@ -1,0 +1,119 @@
+.container {
+    display: flex;
+    align-items: baseline;
+    flex-direction: column;
+    flex-wrap: wrap;
+    padding-left: 50vh;
+}
+
+.container-title {
+    margin-bottom: 8px;
+    font-size: 28px;
+    line-height: 36px;
+    letter-spacing: 0px;
+    font-weight: 500;
+    font-family: "Aktiv Grotesk", -apple-system, BlinkMacSystemFont, "San Francisco", "Segoe UI", Roboto, "Helvetica Neue", sans-serif;
+    color: rgb(29, 29, 31);
+}
+
+.container-subtitle {
+    margin-bottom: 0px;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0.125px;
+    font-weight: 400;
+    font-family: "Aktiv Grotesk", -apple-system, BlinkMacSystemFont, "San Francisco", "Segoe UI", Roboto, "Helvetica Neue", sans-serif;
+    color: rgb(29, 29, 31);
+}
+
+.container-input-email {
+    font-size: 12px;
+    line-height: 16px;
+    letter-spacing: 0.25px;
+    font-weight: 500;
+    font-family: "Aktiv Grotesk", -apple-system, BlinkMacSystemFont, "San Francisco", "Segoe UI", Roboto, "Helvetica Neue", sans-serif;
+    color: rgb(29, 29, 31);
+}
+
+.container-input-name {
+    font-size: 12px;
+    line-height: 16px;
+    letter-spacing: 0.25px;
+    font-weight: 500;
+    font-family: "Aktiv Grotesk", -apple-system, BlinkMacSystemFont, "San Francisco", "Segoe UI", Roboto, "Helvetica Neue", sans-serif;
+    color: rgb(29, 29, 31);
+}
+
+.container-select {
+    font-size: 12px;
+    line-height: 16px;
+    letter-spacing: 0.25px;
+    font-weight: 500;
+    font-family: "Aktiv Grotesk", -apple-system, BlinkMacSystemFont, "San Francisco", "Segoe UI", Roboto, "Helvetica Neue", sans-serif;
+    color: rgb(29, 29, 31);
+}
+
+.container-input-password {
+    font-size: 12px;
+    line-height: 16px;
+    letter-spacing: 0.25px;
+    font-weight: 500;
+    font-family: "Aktiv Grotesk", -apple-system, BlinkMacSystemFont, "San Francisco", "Segoe UI", Roboto, "Helvetica Neue", sans-serif;
+    color: rgb(29, 29, 31);
+}
+
+#input {
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0.125px;
+    font-weight: 400;
+    font-family: "Aktiv Grotesk", -apple-system, BlinkMacSystemFont, "San Francisco", "Segoe UI", Roboto, "Helvetica Neue", sans-serif;
+    border: 1px solid rgb(155, 155, 161);
+    border-radius: 3px;
+    background-color: white;
+    box-sizing: border-box;
+    box-shadow: none;
+    color: rgb(29, 29, 31);
+    padding: 14px 15px 16px;
+    height: 49px;
+    transition: all 0.2s cubic-bezier(0.2, 0.91, 0.85, 0.96) 0s;
+    width: 100%;
+}
+
+.select {
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0.125px;
+    font-weight: 400;
+    font-family: "Aktiv Grotesk", -apple-system, BlinkMacSystemFont, "San Francisco", "Segoe UI", Roboto, "Helvetica Neue", sans-serif;
+    border: 1px solid rgb(155, 155, 161);
+    border-radius: 3px;
+    background-color: white;
+    box-sizing: border-box;
+    box-shadow: none;
+    color: rgb(29, 29, 31);
+    padding: 14px 15px 16px;
+    height: 48px;
+    transition: all 0.2s cubic-bezier(0.2, 0.91, 0.85, 0.96) 0s;
+    width: 100%;
+    width: 101vh;
+}
+
+.footer-title {
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0.125px;
+    font-weight: 400;
+    font-family: "Aktiv Grotesk", -apple-system, BlinkMacSystemFont, "San Francisco", "Segoe UI", Roboto, "Helvetica Neue", sans-serif;
+    color: rgb(79, 79, 85);
+    text-align: center;
+}
+
+.button {
+    display: flex;
+    padding-left: 300px;
+    justify-content: center;
+    margin-top: 32px;
+    box-sizing: inherit;
+    border: 1;
+}
